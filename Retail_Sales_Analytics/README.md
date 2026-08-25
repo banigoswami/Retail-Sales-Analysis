@@ -157,7 +157,7 @@ This also helped me understand why it is important to clearly define business me
 
 ## Project Structure
 
-Retail-Sales-Analytics/
+Retail_Sales_Analytics/
 
 ├── retail_sales_analysis.sql
 ├── README.md
